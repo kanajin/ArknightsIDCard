@@ -1,0 +1,5 @@
+.ipynb*/
+Source/
+__pycache__/
+OutPut/
+*.exe
