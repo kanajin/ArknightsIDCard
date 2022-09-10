@@ -4,8 +4,8 @@
 
 this project is a fork with [Eumenides0305/ArknightsIDCard](https://github.com/Eumenides0305/ArknightsIDCard), for generating arknights' ID card. the sample is below:
 
-![output](输出样图.png)
-![caption](图片参数说明.png)
+![output](https://github.com/kanajin/ArknightsIDCard/blob/master/%E8%BE%93%E5%87%BA%E6%A0%B7%E5%9B%BE.png)
+![caption](https://github.com/kanajin/ArknightsIDCard/blob/master/%E5%9B%BE%E7%89%87%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E.png)
 
 ## 运行环境
 
